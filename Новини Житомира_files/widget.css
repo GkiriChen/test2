@@ -1,0 +1,6 @@
+#__layout, html, body {
+    background-color: transparent !important;
+    width: fit-content !important;
+    height: fit-content !important;
+    margin: 0 !important;
+}
